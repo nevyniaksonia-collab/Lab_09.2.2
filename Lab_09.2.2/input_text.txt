@@ -1,0 +1,2 @@
+Variant 21: A 1 4 Z 9 !
+Test 2 (Control char):	
